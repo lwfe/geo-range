@@ -1,4 +1,4 @@
-import { isWithinTargets } from "../lib/geo-range";
+import { isWithinTargets } from "../lib";
 
 describe("isWithinTargets", () => {
   const DEFAULT_RANGE_IN_KM = 5;
