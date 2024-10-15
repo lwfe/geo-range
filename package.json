@@ -11,7 +11,16 @@
     "test": "jest",
     "build": "tsc"
   },
-  "keywords": [],
+  "repository": {
+    "url": "https://github.com/lwfe/geo-range.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "geo",
+    "range"
+  ],
   "author": "lwfe",
   "license": "ISC",
   "devDependencies": {
