@@ -10,7 +10,7 @@ function haversineDistance(
   lat2: number,
   lon2: number
 ): number {
-  const R = 6371; // Eather's Radius
+  const R = 6371; // Earth's Radius
   const deltaLat = toRadians(lat2 - lat1);
   const deltaLon = toRadians(lon2 - lon1);
 
