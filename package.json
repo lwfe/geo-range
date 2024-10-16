@@ -19,7 +19,7 @@
     "range"
   ],
   "author": "lwfe",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.5.13",
     "jest": "^29.7.0",
